@@ -1,0 +1,197 @@
+# Project : CS50P - Harvard University Python Programming
+
+---
+
+## 📌 Project Overview
+
+| Field | Details |
+|-------|---------|
+| **Project Title** | CS50's Introduction to Programming with Python — Harvard University |
+| **Role** | Student / Learner |
+| **Duration** | 2025 – 2026 |
+| **Provider** | Harvard University (via edX) |
+| **Score** | 100% |
+| **Scope** | Python Programming Fundamentals, Problem Solving, Automation, Libraries, Testing, File I/O |
+
+---
+
+## 🎯 Project Objective
+
+As a Chartered Accountant and CISA working at the intersection of **finance, audit, and technology**, I recognized that understanding programming is no longer optional — it is essential for **automating repetitive tasks, analyzing data at scale, building audit tools, and understanding how systems work under the hood**. I completed Harvard University's **CS50P (Introduction to Programming with Python)** with a **perfect 100% score** — building a strong foundation in Python that I now apply to my professional work in audit, finance, and GRC.
+
+> 💡 *"Most CAs don't deeply understand technology, and most IT professionals don't fully grasp finance. I work at their intersection — and Python is one of the bridges."*
+
+---
+
+## 🛠️ Step-by-Step: What I Learned & Did
+
+---
+
+### ✅ Step 1: Functions & Variables
+
+- Learned the fundamentals of Python programming:
+  - Variables, data types (strings, integers, floats, booleans)
+  - Functions — defining, calling, parameters, return values
+  - User input and output
+  - Type casting and string formatting
+- **Practical application**: Built simple calculators and input validation tools
+
+---
+
+### ✅ Step 2: Conditionals
+
+- Learned decision-making logic:
+  - `if`, `elif`, `else` statements
+  - Comparison operators (`==`, `!=`, `>`, `<`, `>=`, `<=`)
+  - Logical operators (`and`, `or`, `not`)
+  - Nested conditions and ternary expressions
+- **Practical application**: Built grade calculators, eligibility checkers, and decision trees
+
+---
+
+### ✅ Step 3: Loops
+
+- Learned iteration and repetition:
+  - `for` loops — iterating over ranges, lists, strings
+  - `while` loops — condition-based repetition
+  - Loop control — `break`, `continue`, `pass`
+  - Nested loops
+- **Practical application**: Built pattern generators, data processors, and repetitive task automators
+
+---
+
+### ✅ Step 4: Exceptions
+
+- Learned error handling:
+  - `try`, `except`, `else`, `finally` blocks
+  - Common exceptions — `ValueError`, `TypeError`, `FileNotFoundError`, `ZeroDivisionError`
+  - Raising custom exceptions
+  - Graceful error handling in user-facing programs
+- **Practical application**: Built robust input handlers that don't crash on invalid data
+
+---
+
+### ✅ Step 5: Libraries
+
+- Learned to leverage Python's extensive library ecosystem:
+  - Standard libraries — `random`, `math`, `sys`, `os`, `csv`, `json`
+  - Third-party libraries — `requests`, `tabulate`, `pyfiglet`
+  - `pip` — Python package manager
+  - Importing modules and using library functions
+- **Practical application**: Built programs using external libraries for data formatting, API calls, and file handling
+
+---
+
+### ✅ Step 6: Unit Testing
+
+- Learned software testing fundamentals:
+  - Writing test functions using `pytest`
+  - Test-driven thinking — what should the code do? what could go wrong?
+  - Assertions — `assert` statements for validating expected behavior
+  - Testing edge cases and boundary conditions
+  - Running test suites and interpreting results
+- **Practical application**: Built test cases for financial calculation functions — ensuring accuracy
+
+---
+
+### ✅ Step 7: File I/O
+
+- Learned reading and writing files:
+  - Opening files — `open()`, `with` statement
+  - Reading modes — `r`, `w`, `a`
+  - Reading CSV files — `csv.reader`, `csv.DictReader`
+  - Writing CSV files — `csv.writer`, `csv.DictWriter`
+  - JSON file handling — `json.load`, `json.dump`
+- **Practical application**: Built programs that read financial data from CSV files, process it, and write results
+
+---
+
+### ✅ Step 8: Regular Expressions
+
+- Learned pattern matching with regex:
+  - `re` module — `re.search`, `re.match`, `re.findall`, `re.sub`
+  - Pattern syntax — `.`, `*`, `+`, `?`, `[]`, `()`, `^`, `$`
+  - Character classes — `\d`, `\w`, `\s`
+  - Quantifiers and grouping
+  - Validation patterns — email, phone numbers, dates
+- **Practical application**: Built data validation tools — validating email formats, PAN numbers, phone numbers
+
+---
+
+### ✅ Step 9: Object-Oriented Programming (OOP)
+
+- Learned OOP concepts:
+  - Classes and objects
+  - `__init__` constructor
+  - Instance variables and methods
+  - Properties — `@property`, getter/setter
+  - `__str__` for string representation
+  - Class methods and static methods
+  - Inheritance basics
+- **Practical application**: Built structured data models — e.g., BankAccount class with deposit, withdraw, balance methods
+
+---
+
+### ✅ Step 10: Final Project
+
+- Completed the **CS50P Final Project** — a comprehensive program demonstrating all concepts learned:
+  - Applied functions, conditionals, loops, file I/O, libraries, OOP, testing, and regex
+  - Designed, implemented, tested, and documented a complete Python project
+  - Submitted project with:
+    - Source code
+    - README documentation
+    - Video demonstration
+    - Test file with pytest test cases
+
+---
+
+## 💼 How I Apply Python to My Professional Work
+
+| Application Area | How Python Helps |
+|-----------------|----------------|
+| **Audit Data Analysis** | Analyzing large transaction datasets — identifying duplicates, outliers, exceptions |
+| **Financial Modeling** | Building automated financial calculations — EIR, ECL, DSCR, ratio analysis |
+| **Reconciliation Automation** | Automating GL reconciliation, TDS reconciliation, bank reconciliation matching |
+| **Report Generation** | Auto-generating audit reports, MIS summaries from raw data |
+| **Data Validation** | Validating data quality — PAN formats, email formats, date consistency |
+| **CSV/Excel Processing** | Reading, transforming, and writing financial data files |
+| **Web Scraping** | Extracting NEPSE data, NRB circulars, public financial data |
+| **IT Audit Support** | Understanding system logic, testing application controls, log analysis |
+| **Cybersecurity** | Understanding scripts, analyzing network data, ethical hacking foundations |
+| **Workflow Automation** | Automating repetitive daily tasks — file renaming, data formatting, email alerts |
+
+---
+
+## 📊 Key Outcomes & Impact
+
+| Outcome | Detail |
+|---------|--------|
+| **Course Completed** | CS50P — Harvard University |
+| **Score** | 100% (Perfect Score) |
+| **Concepts Mastered** | Functions, conditionals, loops, exceptions, libraries, testing, file I/O, regex, OOP |
+| **Final Project** | Complete Python project designed, built, tested, and documented |
+| **Professional Application** | Python skills applied to audit, finance, data analysis, and automation |
+| **Bridge Built** | Strengthened my ability to bridge finance/audit with technology |
+
+---
+
+## 🧰 Tools & Skills Applied
+
+- **Python Fundamentals**: Python 3, Functions, Conditionals, Loops, Exception Handling, Variables, Data Types
+- **Libraries & Modules**: Standard Libraries (csv, json, re, sys, os), Third-Party Libraries (requests, tabulate, pyfiglet), pip Package Manager
+- **Testing & Quality**: pytest, Unit Testing, Test-Driven Development, Assertions, Edge Case Testing
+- **File & Data Handling**: File I/O, CSV Processing, JSON Handling, Regular Expressions, Data Validation
+- **Programming Paradigms**: Object-Oriented Programming (Classes, Objects, Properties, Inheritance)
+- **Development Tools**: VS Code, Command Line, Problem Solving, Automation Scripting
+
+---
+
+## 🏷️ Tags
+
+`#CS50P` `#Harvard` `#Python` `#Programming` `#Automation` `#DataAnalysis` `#UnitTesting` `#FileIO` `#RegEx` `#OOP` `#FinanceTech` `#AuditTech` `#CyberSecurity` `#CAManishShrestha` `#CISA`
+
+---
+
+> *— CA Manish Shrestha, CISA®*  
+> Chartered Accountant (ICAN) | Certified Information Systems Auditor (ISACA-USA)  
+> 🌐 [camanishshrestha.com.np](https://www.camanishshrestha.com.np) | [GitHub](https://github.com/camanishshrestha) | [LinkedIn](https://www.linkedin.com/in/manish-shrestha-cisa-grc)
